@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "minerva2f578165": {}
+      },
+      "api": {
+        "minerva": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
